@@ -1,8 +1,20 @@
-# React + Vite
+Project: Flight Schedule - Dhaka Popular Travel Ltd
+Live Link: https://dpt-flight-schedule.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Used Technologies: React.js, Tailwind CSS, DaisyUI
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Best Two Projects:
+
+- https://taharm-535eb.web.app/
+- https://summercamp-8c94a.web.app/
+
+Best Git Repositories:
+
+- https://github.com/ItsmeJunaied/Tahar-client
+- https://github.com/ItsmeJunaied/Tahar-server
+
+- https://github.com/ItsmeJunaied/Summer_Camp_Client
+
+
+.
