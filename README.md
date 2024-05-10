@@ -9,11 +9,12 @@ To install the project dependencies, run:
 
 ```bash
 npm install
-
+```
 To run the project in local browser, run:
 
 ```bash
 npm run dev
+```
 
 Best Two Projects:
 
